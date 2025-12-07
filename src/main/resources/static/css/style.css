@@ -1,0 +1,44 @@
+body{
+
+    background-color: #9cc2eefd;
+    font-family: 'Courrgb(227, 168, 245)', Courier, monospace;
+
+}
+
+#titulo-principal{
+    font-size: 80px;
+    text-align: center;
+    color: #1655ca;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    border-color: #1655ca;
+    background-color: #e6a0ce;
+    border-width: 6px;
+    border-style:dashed;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+
+.contenedor{
+    border: #1655ca solid 6px;
+    height: 8%;
+    width: 100%;
+    background-color: #e6a0ce;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+#peliculas{
+    font-size: 30px;
+    color: #1655ca;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
