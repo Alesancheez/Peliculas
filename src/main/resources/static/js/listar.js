@@ -1,5 +1,5 @@
 const contenedorCartas= document.getElementById("container-card")
-const url="https://Peliculas.onrender.com/peliculas"
+const url="https://peliculas-h91q.onrender.com/peliculas"
 //console.log(contenedorCartas);
 
 
