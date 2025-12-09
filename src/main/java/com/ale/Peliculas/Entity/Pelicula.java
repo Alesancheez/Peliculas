@@ -1,12 +1,12 @@
 package com.ale.Peliculas.Entity;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
+
 @Entity
 @Table(name = "peliculas")
 
 public class Pelicula {
     @Id
+    @GeneratedValue(strategy=GenerationType.AUTO)
     private Long id;
     private String titulo;
     private Integer anio;
